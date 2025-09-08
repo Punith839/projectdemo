@@ -1,0 +1,20 @@
+I am a complete beginner and I want to learn JavaScript Fundamentals for Web Interactivity (Module 6) in a very simple, step-by-step, beginner-friendly way. Please explain everything like I know nothing.
+
+Give me:
+
+1. What this module is about (in simple words).
+2. Tools required (which editor/browser to use, where to download, and why).
+3. Where to go and what to do at each step (like create index.html, create script.js, how to run in browser, how to check console, etc.).
+4. Every topic explained with examples:
+
+   * What is JavaScript?
+   * How to link JavaScript to HTML (inline, internal, external).
+   * Variables (with 2–3 examples).
+   * Functions (with 2–3 examples).
+   * Conditions (if/else, switch – with 2–3 examples).
+   * Loops (for, while – with 2–3 examples).
+   * Events (click, hover – with 2–3 examples).
+   * DOM Manipulation (changing text, style, hiding/showing elements – with 2–3 examples).
+5. Practice tasks for each concept (so I can try myself).
+6. A final mini project that combines all these concepts into one simple interactive webpage (like greeting a user, changing background, printing numbers, showing/hiding content).
+7. Very beginner-friendly instructions: mention where to type code, where to save, how to open in browser, and how to test it.
